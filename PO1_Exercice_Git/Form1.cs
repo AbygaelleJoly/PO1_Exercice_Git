@@ -16,7 +16,7 @@ namespace PO1_Exercice_Git
             {
                 somme = tableau[i];
             }
-            MessageBox.Show("La somme des �l�ment du tableau est : " + somme);
+            MessageBox.Show("La somme des élément du tableau est : " + somme);
         }
 
         private void button_TestPremier_Click(object sender, EventArgs e)
@@ -26,7 +26,7 @@ namespace PO1_Exercice_Git
             {
                 if (nombre < 2)
                 {
-                    MessageBox.Show("Le nombre doit �tre sup�rieur ou �gal � 2");
+                    MessageBox.Show("Le nombre doit étre supérieur ou égal à 2");
                 }
                 else
                 {
@@ -51,7 +51,7 @@ namespace PO1_Exercice_Git
             }
             else
             {
-                MessageBox.Show("Le nombre doit �tre un entier");
+                MessageBox.Show("Le nombre doit être un entier");
             }
         }
 
